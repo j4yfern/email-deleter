@@ -1,0 +1,2 @@
+# email-deleter
+deletes emails
